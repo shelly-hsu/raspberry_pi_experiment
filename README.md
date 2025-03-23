@@ -1,2 +1,1 @@
-# piano
-This is a simple piano for raspberry pi.
+Therse are some experimnent related to raspberry pi and arduino
